@@ -1,0 +1,27 @@
+<div class="employee-grid">
+  <button class="add-employee-button" (click)="openModal()">Add Employee</button>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Gender</th>
+        <th>Number</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employees">
+        <td>{{ employee.empName }}</td>
+        <td>{{ employee.email }}</td>
+        <td>{{ employee.gender }}</td>
+        <td>{{ employee.phoneNumber }}</td>
+        <td>
+          <button (click)="deleteEmployee(employee)">Delete</button>
+          <button (click)="updateEmployee(employee)">Update</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<app-model (newEmployeeAdded)="onEmployeeAdded($event)"></app-model>
