@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\new\Backend\DalLayer\bin\Debug\net7.0\DaLayer.deps.json
+C:\Users\HP\Desktop\new\Backend\DalLayer\bin\Debug\net7.0\DaLayer.runtimeconfig.json
+C:\Users\HP\Desktop\new\Backend\DalLayer\bin\Debug\net7.0\DaLayer.dll
+C:\Users\HP\Desktop\new\Backend\DalLayer\bin\Debug\net7.0\DaLayer.pdb
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.dll
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\refint\DaLayer.dll
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.pdb
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\DaLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\new\Backend\DalLayer\obj\Debug\net7.0\ref\DaLayer.dll
